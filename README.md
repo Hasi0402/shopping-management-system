@@ -1,5 +1,4 @@
 # shopping-management-system
-# Online Shopping System
 
 A console-based Online Shopping System developed in C++ demonstrating Object-Oriented Programming and Data Structures.
 
