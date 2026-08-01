@@ -5,14 +5,6 @@ A C++ console-based Online Shopping System built to demonstrate how core **Data 
 **Course:** IT23302 – Data Structures
 **Department:** Information Technology, Madras Institute of Technology, Anna University, Chennai – 600 044
 
-**Team:**
-- Hasiba Aisha I – 2024506129
-- Praveena B – 2024506067
-- Harini R – 2024506065
-- Harish R – 2024506092
-
----
-
 ## Overview
 
 The system supports both **Admin** and **User** roles:
