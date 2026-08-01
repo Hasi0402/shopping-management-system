@@ -1,9 +1,6 @@
-# Online Shopping System (Smart Shopping Application)
+# Online Shopping System (Shopping Management System )
 
 A C++ console-based Online Shopping System built to demonstrate how core **Data Structures** and **Object-Oriented Programming** concepts combine to simulate a real-world e-commerce experience.
-
-**Course:** IT23302 – Data Structures
-**Department:** Information Technology, Madras Institute of Technology, Anna University, Chennai – 600 044
 
 ## Overview
 
